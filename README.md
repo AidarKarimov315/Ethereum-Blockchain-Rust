@@ -1,6 +1,6 @@
-# My playground project to learn Rust and blockchain development
+# Rust & blockchain development
 
-Learning Rust and Blockchain development on Ethereum using lessons from:
+Rust and Blockchain development on Ethereum using lessons from:
 - [Ethereum Blockchain Developer](https://ethereum-blockchain-developer.com/2022-01-remix-introduction/00-overview/)
   - [The Blockchain Messenger](https://ethereum-blockchain-developer.com/2022-02-solidity-basics-blockchain-messenger/00-overview/)
   - [Smart Money - Deposit and Withdrawals](https://ethereum-blockchain-developer.com/2022-03-deposit-withdrawals/00-overview/)
@@ -83,5 +83,3 @@ make run
 - open the page on [localhost:8080](http://localhost:8080)
 
 - open Lab1 (The Blockchain Messenger), wait until the contract gets deployed (in case you didn't set the contract address in `.envrc`) and submit a new transaction
-
-![](assets/screen_lab1.png)
